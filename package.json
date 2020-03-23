@@ -1,8 +1,8 @@
 {
-  "name": "treebank-template",
+  "name": "daphne-trees",
   "version": "1.2.2",
   "private": true,
-  "homepage": "https://perseids-publications.github.io/treebank-template/",
+  "homepage": "https://perseids-publications.github.io/daphne-trees/",
   "dependencies": {
     "@primer/octicons-react": "^9.6.0",
     "alpheios-messaging": "https://github.com/alpheios-project/alpheios-messaging",

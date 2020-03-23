@@ -1,14 +1,13 @@
 {
-  "title": "Treebank Publication Template",
-  "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-  "copyright": "© The Perseids Project 2019",
-  "report": "https://github.com/perseids-publications/treebank-template/issues",
-  "github": "https://github.com/perseids-publications/treebank-template/",
-  "twitter": "https://twitter.com/PerseidsProject",
+  "title": "Daphne Trees",
+  "subtitle": "καί μοι σκῆπτρον ἔδον δάφνης ἐριθηλέος ὄζον δρέψασαι, θηητόν· ἐνέπνευσαν δέ μοι αὐδὴν.",
+  "report": "https://github.com/perseids-publications/daphne-trees/issues",
+  "github": "https://github.com/perseids-publications/daphne-trees/",
+  "twitter": "https://twitter.com/francmambr",
   "collections": [
     {
-      "title": "Information",
-      "text": "To learn more visit [our homepage](https://www.perseids.org) or view a [treebank](/on-the-murder-of-eratosthenes-1-50/1)."
+      "title": "The Daphne Treebank repository of Ancient Greek Poetry",
+      "text": "A collection of treebanks of poetic Ancient Greek texts, starting with drama and archaic epos. For Aeschylus, Sophocles and (coming soon) Homer and Hesiod, the treebanks are taken from Perseus' [Ancient Greek and Latin Dependency Treebank](https://perseusdl.github.io/treebank_data/), but with some modifications in the annotation introduced by Francesco Mambrini.\n\nTo learn more, visit [https://github.com/francescomambrini/Daphne](https://github.com/francescomambrini/Daphne)."
     },
     {
       "title": "Collection 1", 

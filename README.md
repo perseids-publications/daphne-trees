@@ -1,13 +1,13 @@
-# Treebank Template
+# Daphne Trees
 
-Template for publishing collections of treebanks.
+Set of treebanks published by Francesco Mambrini.
 
 The treebanks themselves live in the `./public/xml` directory.
 All other configuration is done using `./src/config.json`.
 
 ## Try it Out
 
-[https://perseids-publications.github.io/treebank-template/](https://perseids-publications.github.io/treebank-template/)
+[https://perseids-publications.github.io/daphne-trees/](https://perseids-publications.github.io/daphne-trees/)
 
 ## How to configure with your own treebanks
 
