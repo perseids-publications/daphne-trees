@@ -30,6 +30,18 @@ git push -u origin master
 * Fix merge conflicts
 * `git push origin master`
 
+### Updating the treebanks
+
+* `git remote add daphne git@github.com:francescomambrini/Daphne.git`
+* `git fetch daphne`
+* `git branch daphne-master daphne/master`
+* `git checkout -f daphne-master`
+* `git subtree split --squash --prefix=data/annotation/v02 -b data-branch`
+* `git checkout -f master`
+* `git subtree add --prefix=public/xml data-branch` (or if it already exists, `git subtree merge --squash --prefix=public/xml data-branch`)
+* `git branch -D data-branch`)
+* `git branch -D daphne-master`)
+
 ### Setting up automatic deployment with Travis
 
 * `gem install travis`
