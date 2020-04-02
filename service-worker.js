@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/daphne-trees/precache-manifest.4c4abeaef3b40e26d8a0c6c8b0a253dd.js"
+  "/daphne-trees/precache-manifest.a8889a52b24d53bd1ee645ce32d3fbd7.js"
 );
 
 self.addEventListener('message', (event) => {
