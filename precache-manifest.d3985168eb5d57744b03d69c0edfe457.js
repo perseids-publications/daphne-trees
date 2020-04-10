@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8b386564d6ed4ca117112208aeb2d516",
+    "revision": "c079e381134b258de82c05185fb95932",
     "url": "/daphne-trees/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/daphne-trees/static/css/2.0121959d.chunk.css"
   },
   {
-    "revision": "5bf7e8ec7a6d6b03e15c",
+    "revision": "3752edd20df43aa9b17c",
     "url": "/daphne-trees/static/css/main.bd98509e.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/daphne-trees/static/js/2.40c4c6d3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5bf7e8ec7a6d6b03e15c",
-    "url": "/daphne-trees/static/js/main.c31cab03.chunk.js"
+    "revision": "3752edd20df43aa9b17c",
+    "url": "/daphne-trees/static/js/main.1db0c854.chunk.js"
   },
   {
     "revision": "2c68c2b2d4220989acea",
