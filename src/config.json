@@ -47,6 +47,23 @@
           ]
         },
         {
+          "path": "aeschylus-prometheus",
+          "author": "[Aeschylus (?)]",
+          "work": "Prometheus Vinctus",
+          "editors": "Francesco Mambrini",
+          "sections": [
+            {
+              "locus": "1-1093",
+              "path": "tlg0085-tlg003-daphne_tb-grc1",
+              "xml": "tlg0085/tlg003/tlg0085.tlg003.daphne_tb-grc1.xml",
+              "chunks": {
+                "start": 1,
+                "end": 591
+              }
+            }
+          ]
+        },
+        {
           "path": "sophocles-ajax",
           "author": "Sophocles",
           "work": "Ajax",
