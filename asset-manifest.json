@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/daphne-trees/static/css/main.bd98509e.chunk.css",
-    "main.js": "/daphne-trees/static/js/main.fa3cd7be.chunk.js",
-    "main.js.map": "/daphne-trees/static/js/main.fa3cd7be.chunk.js.map",
-    "runtime-main.js": "/daphne-trees/static/js/runtime-main.ab9fc913.js",
-    "runtime-main.js.map": "/daphne-trees/static/js/runtime-main.ab9fc913.js.map",
-    "static/css/2.354f031a.chunk.css": "/daphne-trees/static/css/2.354f031a.chunk.css",
-    "static/js/2.d740b0e2.chunk.js": "/daphne-trees/static/js/2.d740b0e2.chunk.js",
-    "static/js/2.d740b0e2.chunk.js.map": "/daphne-trees/static/js/2.d740b0e2.chunk.js.map",
+    "main.js": "/daphne-trees/static/js/main.588c78e8.chunk.js",
+    "main.js.map": "/daphne-trees/static/js/main.588c78e8.chunk.js.map",
+    "runtime-main.js": "/daphne-trees/static/js/runtime-main.c81b1117.js",
+    "runtime-main.js.map": "/daphne-trees/static/js/runtime-main.c81b1117.js.map",
+    "static/css/2.4d5b04cb.chunk.css": "/daphne-trees/static/css/2.4d5b04cb.chunk.css",
+    "static/js/2.dc59c569.chunk.js": "/daphne-trees/static/js/2.dc59c569.chunk.js",
+    "static/js/2.dc59c569.chunk.js.map": "/daphne-trees/static/js/2.dc59c569.chunk.js.map",
     "index.html": "/daphne-trees/index.html",
-    "precache-manifest.5718dda05e45207645fd15e367e42fbc.js": "/daphne-trees/precache-manifest.5718dda05e45207645fd15e367e42fbc.js",
+    "precache-manifest.26cc799d04307f1b5e8d63e9d1a57ab9.js": "/daphne-trees/precache-manifest.26cc799d04307f1b5e8d63e9d1a57ab9.js",
     "service-worker.js": "/daphne-trees/service-worker.js",
-    "static/css/2.354f031a.chunk.css.map": "/daphne-trees/static/css/2.354f031a.chunk.css.map",
+    "static/css/2.4d5b04cb.chunk.css.map": "/daphne-trees/static/css/2.4d5b04cb.chunk.css.map",
     "static/css/main.bd98509e.chunk.css.map": "/daphne-trees/static/css/main.bd98509e.chunk.css.map",
-    "static/js/2.d740b0e2.chunk.js.LICENSE.txt": "/daphne-trees/static/js/2.d740b0e2.chunk.js.LICENSE.txt"
+    "static/js/2.dc59c569.chunk.js.LICENSE.txt": "/daphne-trees/static/js/2.dc59c569.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ab9fc913.js",
-    "static/css/2.354f031a.chunk.css",
-    "static/js/2.d740b0e2.chunk.js",
+    "static/js/runtime-main.c81b1117.js",
+    "static/css/2.4d5b04cb.chunk.css",
+    "static/js/2.dc59c569.chunk.js",
     "static/css/main.bd98509e.chunk.css",
-    "static/js/main.fa3cd7be.chunk.js"
+    "static/js/main.588c78e8.chunk.js"
   ]
 }
