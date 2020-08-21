@@ -3873,9 +3873,10 @@
       <word id="1" form="Μοῖραι" lemma="μοῖρα" postag="n-p---fn-" cite="516" head="4" relation="SBJ_CO"/>
       <word id="2" form="τρίμορφοι" lemma="τρίμορφος" postag="a-p---fn-" cite="516" head="1" relation="ATR"/>
       <word id="3" form="μνήμονές" lemma="μνήμων" postag="a-p---fn-" cite="516" head="5" relation="ATR"/>
-      <word id="4" form="τ'" lemma="τε" postag="d--------" cite="516" head="6" relation="COORD"/>
+      <word id="4" form="τ'" lemma="τε" postag="d--------" cite="516" head="7" relation="COORD"/>
       <word id="5" form="Ἐρινύες" lemma="Ἐρινύς" postag="n-p---fn-" cite="516" head="4" relation="SBJ_CO"/>
-      <word id="6" form="[0]" insertion_id="0005e" artificial="elliptic" head="0" relation="PRED"/>
+      <word id="6" form="." lemma="." postag="u--------" cite="516" head="0" relation="AuxK"/>
+      <word id="7" form="[0]" insertion_id="0005e" artificial="elliptic" head="0" relation="PRED"/>
    </sentence>
    <sentence id="266" document_id="urn:cts:greekLit:tlg0085.tlg003.daphne_tb-grc1" subdoc="517">
       <word id="1" form="τούτων" lemma="οὗτος" postag="p-p---mg-" cite="517" head="5" relation="ADV"/>
