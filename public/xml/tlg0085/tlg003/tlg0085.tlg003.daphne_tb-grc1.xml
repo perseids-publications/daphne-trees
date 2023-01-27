@@ -2823,7 +2823,7 @@
       <word id="8" form="στενωποῦ" lemma="στενωπός" postag="a-s---fg-" cite="366" head="9" relation="ADV"/>
       <word id="9" form="πλησίον" lemma="πλησίος" postag="a-s---ma-" cite="366" head="7" relation="AuxP"/>
       <word id="10" form="θαλασσίου" lemma="θαλάσσιος" postag="a-s---mg-" cite="366" head="8" relation="ATR"/>
-      <word id="11" form="ἰπούμενος" lemma="ἰπόομαι" postag="v-spppen-" cite="367" head="7" relation="ADV"/>
+      <word id="11" form="ἰπούμενος" lemma="ἰπόομαι" postag="v-spppmn-" cite="367" head="7" relation="ADV"/>
       <word id="12" form="ῥίζαισιν" lemma="ῥίζα" postag="n-p---fd-" cite="367" head="14" relation="ADV"/>
       <word id="13" form="Αἰτναίαις" lemma="Αἰτναῖος" postag="a-p---fd-" cite="367" head="12" relation="ATR"/>
       <word id="14" form="ὕπο" lemma="ὑπό" postag="r--------" cite="367" head="11" relation="AuxP"/>
