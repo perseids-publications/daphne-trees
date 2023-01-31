@@ -2521,7 +2521,7 @@
       <word id="2" form="ἰὼ" lemma="ἰώ" postag="i--------" cite="410" head="3" relation="AuxY"/>
       <word id="3" form="ἰὼ" lemma="ἰώ" postag="i--------" cite="410" head="6" relation="AuxZ"/>
       <word id="4" form="δῶμα" lemma="δῶμα" postag="n-s---nv-" cite="410" head="5" relation="AuxY"/>
-      <word id="5" form="δῶμα" lemma="δῶμα" postag="--s---nv-" cite="410" head="6" relation="ExD_CO"/>
+      <word id="5" form="δῶμα" lemma="δῶμα" postag="n-s---nv-" cite="410" head="6" relation="ExD_CO"/>
       <word id="6" form="καὶ" lemma="καί" postag="c--------" cite="410" head="8" relation="COORD"/>
       <word id="7" form="πρόμοι" lemma="πρόμος" postag="n-p---mv-" cite="410" head="6" relation="ExD_CO"/>
       <word id="8" form="," lemma="," postag="u--------" cite="410" head="15" relation="COORD"/>
@@ -2902,7 +2902,7 @@
       <word id="15" form="ἀλλαγᾷ" lemma="ἀλλαγή" postag="n-s---fd-" cite="482" head="17" relation="ADV"/>
       <word id="16" form="λόγου" lemma="λόγος" postag="n-s---mg-" cite="482" head="15" relation="ATR"/>
       <word id="17" form="καμεῖν" lemma="κάμνω" postag="v--ana---" cite="482" head="5" relation="ADV"/>
-      <word id="18" form=";" lemma=";" postag="---------" cite="482" head="0" relation="AuxK"/>
+      <word id="18" form=";" lemma=";" postag="u--------" cite="482" head="0" relation="AuxK"/>
       <word id="19" form="[0]" insertion_id="0018e" artificial="elliptic" head="0" relation="PRED"/>
    </sentence>
    <sentence id="188" document_id="urn:cts:greekLit:tlg0085.tlg005.daphne_tb-grc1" subdoc="483-484" speaker="Χορός">

@@ -1632,7 +1632,7 @@
       <word id="2" form="ἂν" lemma="ἄν1" postag="d--------" cite="215" head="5" relation="AuxY"/>
       <word id="3" form="σκοποὶ" lemma="σκοπός" postag="n-p---mn-" cite="215" head="5" relation="PNOM"/>
       <word id="4" form="νῦν" lemma="νῦν" postag="d--------" cite="215" head="5" relation="ADV"/>
-      <word id="5" form="εἴτε" lemma="εἰμί" postag="-2ppsa---" cite="215" head="1" relation="ADV"/>
+      <word id="5" form="εἴτε" lemma="εἰμί" postag="v2ppsa---" cite="215" head="1" relation="ADV"/>
       <word id="6" form="τῶν" lemma="ὁ" postag="l-p---ng-" cite="215" head="7" relation="ATR"/>
       <word id="7" form="εἰρημένων" lemma="ἐρῶ" postag="v-prpeng-" cite="215" head="3" relation="ATR"/>
       <word id="8" form="." lemma="." postag="u--------" cite="215" head="0" relation="AuxK"/>
@@ -1670,7 +1670,7 @@
       <word id="1" form="τὸ" lemma="ὁ" postag="l-s---na-" cite="219" head="4" relation="ATR"/>
       <word id="2" form="μὴ" lemma="μή" postag="d--------" cite="219" head="4" relation="AuxZ"/>
       <word id="3" form="'" lemma="̓" postag="u--------" cite="219" head="4" relation="XSEG"/>
-      <word id="4" form="πιχωρεῖν" lemma="ἐπιχωρέω" postag="---pna---" cite="219" head="9" relation="OBJ"/>
+      <word id="4" form="πιχωρεῖν" lemma="ἐπιχωρέω" postag="v--pna---" cite="219" head="9" relation="OBJ"/>
       <word id="5" form="τοῖς" lemma="ὁ" postag="l-p---md-" cite="219" head="6" relation="ATR"/>
       <word id="6" form="ἀπιστοῦσιν" lemma="ἀπιστέω" postag="v-pppamd-" cite="219" head="4" relation="OBJ"/>
       <word id="7" form="τάδε" lemma="ὅδε" postag="p-p---na-" cite="219" head="6" relation="OBJ"/>

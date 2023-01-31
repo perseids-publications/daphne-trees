@@ -6198,7 +6198,7 @@
       <word id="6" form="ματαίας" lemma="μάταιος" postag="a-s---fg-" cite="830" head="5" relation="ATR"/>
       <word id="7" form="μὴ" lemma="μή" postag="c--------" cite="830" head="9" relation="AuxZ"/>
       <word id="8" form="'" lemma="punct" postag="u--------" cite="830" head="9" relation="XSEG"/>
-      <word id="9" form="κβάλῃς" lemma="ἐκβάλλω" postag="-2sasa---" cite="830" head="0" relation="PRED"/>
+      <word id="9" form="κβάλῃς" lemma="ἐκβάλλω" postag="v2sasa---" cite="830" head="0" relation="PRED"/>
       <word id="10" form="ἔπη" lemma="ἔπος" postag="n-p---na-" cite="830" head="9" relation="OBJ"/>
       <word id="11" form="χθονί" lemma="χθών" postag="n-s---fd-" cite="830" head="9" relation="OBJ"/>
       <word id="12" form="," lemma="," postag="u--------" cite="830" head="17" relation="AuxX"/>

@@ -2969,7 +2969,7 @@
       <word id="23" form="εἰ" lemma="εἰ" postag="c--------" cite="308" relation="AuxC" head="18"/>
       <word id="24" form="τοὺς" lemma="ὁ" postag="l-p---ma-" cite="308" relation="ATR" head="25"/>
       <word id="25" form="κτανόντας" lemma="κτείνω" postag="v-papama-" cite="308" relation="OBJ" head="30"/>
-      <word id="26" form="Λάϊον" lemma="Λάιος" postag="--s---ma-" cite="308" relation="OBJ" head="25"/>
+      <word id="26" form="Λάϊον" lemma="Λάιος" postag="n-s---ma-" cite="308" relation="OBJ" head="25"/>
       <word id="27" form="μαθόντες" lemma="μανθάνω" postag="v-papamn-" cite="308" relation="ADV" head="30"/>
       <word id="28" form="εὖ" lemma="εὖ" postag="d--------" cite="308" relation="ADV" head="27"/>
       <word id="29" form="κτείναιμεν" lemma="κτείνω" postag="v1paoa---" cite="309" relation="ADV_CO" head="30"/>
