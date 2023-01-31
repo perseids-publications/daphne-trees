@@ -3896,7 +3896,7 @@
              document_id="urn:cts:greekLit:tlg0011.tlg004.daphne_tb-grc1"
              subdoc="378"
              speaker="Οἰδίπους">
-      <word id="1" form="Κρέοντος" lemma="Κρέων" postag="---------" cite="378" relation="ATR_CO" head="2"/>
+      <word id="1" form="Κρέοντος" lemma="Κρέων" postag="n-s---mg-" cite="378" relation="ATR_CO" head="2"/>
       <word id="2" form="ἢ" lemma="ἤ" postag="c--------" cite="378" relation="COORD" head="5"/>
       <word id="3" form="σοῦ" lemma="σύ" postag="p-s---mg-" cite="378" relation="ATR_CO" head="2"/>
       <word id="4" form="ταῦτα" lemma="οὗτος" postag="p-p---nn-" cite="378" relation="SBJ" head="7"/>
