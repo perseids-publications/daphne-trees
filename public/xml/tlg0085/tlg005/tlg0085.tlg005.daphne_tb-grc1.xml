@@ -7104,7 +7104,7 @@
       <word id="3" form="οὖν" lemma="οὖν" postag="d--------" cite="1090" head="2" relation="AuxZ"/>
       <word id="4" form="," lemma="," postag="u--------" cite="1090" head="15" relation="AuxX"/>
       <word id="5" form="πολλὰ" lemma="πολύς" postag="a-p---na-" cite="1090" head="8" relation="ATR"/>
-      <word id="6" form="συνίστορα" lemma="συνίστωρ" postag="a-s---fa_" cite="1090" head="15" relation="ATR"/>
+      <word id="6" form="συνίστορα" lemma="συνίστωρ" postag="a-s---fa-" cite="1090" head="15" relation="ATR"/>
       <word id="7" form="αὐτόφονα" lemma="αὐτοφόνος" postag="a-p---na-" cite="1091" head="8" relation="ATR"/>
       <word id="8" form="κακὰ" lemma="κακός" postag="a-p---na-" cite="1091" head="6" relation="OBJ"/>
       <word id="9" form="καρατόμα" lemma="καρατόμος" postag="a-p---na-" cite="1091" head="8" relation="ATR"/>
@@ -10148,7 +10148,7 @@
       <word id="5" form="κόρακος" lemma="κόραξ" postag="n-s---mg-" cite="1473" head="4" relation="ATR"/>
       <word id="6" form="ἐχθροῦ" lemma="ἐχθρός" postag="a-s---ng-" cite="1473" head="5" relation="ATR"/>
       <word id="7" form="σταθεῖσ'" lemma="ἵστημι" postag="v-sappfn-" cite="1473" head="11" relation="ADV"/>
-      <word id="8" form="ἐκνόμως " lemma="ἔκνομος" postag="d-------_" cite="1473" head="10" relation="ATR"/>
+      <word id="8" form="ἐκνόμως " lemma="ἔκνομος" postag="d--------" cite="1473" head="10" relation="ATR"/>
       <word id="9" form="ὕμνον" lemma="ὕμνος" postag="n-s---ma-" cite="1474" head="10" relation="OBJ"/>
       <word id="10" form="ὑμνεῖν" lemma="ὑμνέω" postag="v--pna---" cite="1474" head="11" relation="OBJ"/>
       <word id="11" form="ἐπεύχεται" lemma="ἐπεύχομαι" postag="v3spie---" cite="1474" head="0" relation="PRED"/>

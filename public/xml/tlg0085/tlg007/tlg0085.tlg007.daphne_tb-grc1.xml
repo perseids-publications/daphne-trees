@@ -5570,7 +5570,7 @@
    </sentence>
    <sentence id="391" document_id="urn:cts:greekLit:tlg0085.tlg007.daphne_tb-grc1" subdoc="742-743" speaker="Ἀθηνᾶ">
       <word id="1" form="ἐκβάλλεθ'" lemma="ἐκβάλλω" postag="v2ppma---" cite="742" head="0" relation="PRED"/>
-      <word id="2" form="ὡς" lemma="ὡς" postag="d-------_" cite="742" head="3" relation="AuxY"/>
+      <word id="2" form="ὡς" lemma="ὡς" postag="d--------" cite="742" head="3" relation="AuxY"/>
       <word id="3" form="τάχιστα" lemma="ταχύς" postag="a-p---nas" cite="742" head="1" relation="ADV"/>
       <word id="4" form="τευχέων" lemma="τεῦχος" postag="n-p---ng-" cite="742" head="1" relation="OBJ"/>
       <word id="5" form="πάλους" lemma="πάλος" postag="n-p---ma-" cite="742" head="1" relation="OBJ"/>
