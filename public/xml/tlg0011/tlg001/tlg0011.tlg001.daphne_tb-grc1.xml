@@ -5157,7 +5157,7 @@
       <word id="8" form="νόμον" lemma="νόμος" postag="n-s---ma-" cite="616" head="5" relation="OBJ"/>
       <word id="9" form="," lemma="," postag="u--------" cite="616" head="13" relation="AuxX"/>
       <word id="10" form="τὸ" lemma="ὁ" postag="l-s---na-" cite="617" head="13" relation="ATR"/>
-      <word id="11" form="μὴ" lemma="μή" postag="d-------_" cite="617" head="13" relation="AuxZ"/>
+      <word id="11" form="μὴ" lemma="μή" postag="d--------" cite="617" head="13" relation="AuxZ"/>
       <word id="12" form="'" lemma="̓" postag="u--------" cite="617" head="13" relation="XSEG"/>
       <word id="13" form="πιθυμεῖν" lemma="ἐπιθυμέω" postag="v--pna---" cite="617" head="8" relation="ATR"/>
       <word id="14" form="πομπὸς" lemma="πομπός" postag="n-s---mn-" cite="617" head="15" relation="PNOM"/>

@@ -2823,7 +2823,7 @@
       <word id="8" form="στενωποῦ" lemma="στενωπός" postag="a-s---fg-" cite="366" head="9" relation="ADV"/>
       <word id="9" form="πλησίον" lemma="πλησίος" postag="a-s---ma-" cite="366" head="7" relation="AuxP"/>
       <word id="10" form="θαλασσίου" lemma="θαλάσσιος" postag="a-s---mg-" cite="366" head="8" relation="ATR"/>
-      <word id="11" form="ἰπούμενος" lemma="ἰπόομαι" postag="v-spppen-" cite="367" head="7" relation="ADV"/>
+      <word id="11" form="ἰπούμενος" lemma="ἰπόομαι" postag="v-spppmn-" cite="367" head="7" relation="ADV"/>
       <word id="12" form="ῥίζαισιν" lemma="ῥίζα" postag="n-p---fd-" cite="367" head="14" relation="ADV"/>
       <word id="13" form="Αἰτναίαις" lemma="Αἰτναῖος" postag="a-p---fd-" cite="367" head="12" relation="ATR"/>
       <word id="14" form="ὕπο" lemma="ὑπό" postag="r--------" cite="367" head="11" relation="AuxP"/>
@@ -4996,7 +4996,7 @@
    <sentence id="346" document_id="urn:cts:greekLit:tlg0085.tlg003.daphne_tb-grc1" subdoc="667-668" speaker="Ἰώ">
       <word id="1" form="κ" lemma="καί" postag="c--------" cite="667" head="0" relation="COORD"/>
       <word id="2" form="εἰ" lemma="εἰ" postag="c--------" cite="667" head="9" relation="COORD"/>
-      <word id="3" form="μὴ" lemma="μή" postag="d-------_" cite="667" head="4" relation="AuxZ"/>
+      <word id="3" form="μὴ" lemma="μή" postag="d--------" cite="667" head="4" relation="AuxZ"/>
       <word id="4" form="θέλοι" lemma="ἐθέλω" postag="v3spoa---" cite="667" head="2" relation="ADV"/>
       <word id="5" form="," lemma="," postag="u--------" cite="667" head="4" relation="AuxX"/>
       <word id="6" form="πυρωπὸν" lemma="πυρωπός" postag="a-s---ma-" cite="667" head="10" relation="ATR"/>
@@ -6710,7 +6710,7 @@
       <word id="11" form="[0]" insertion_id="0010e" artificial="elliptic" head="7" relation="APOS"/>
    </sentence>
    <sentence id="464" document_id="urn:cts:greekLit:tlg0085.tlg003.daphne_tb-grc1" subdoc="875-876" speaker="Προμηθεύς">
-      <word id="1" form="ὅπως" lemma="ὅπως" postag="d-------_" cite="875" head="3" relation="ADV_CO"/>
+      <word id="1" form="ὅπως" lemma="ὅπως" postag="d--------" cite="875" head="3" relation="ADV_CO"/>
       <word id="2" form="δὲ" lemma="δέ" postag="d--------" cite="875" head="7" relation="AuxY"/>
       <word id="3" form="χ" lemma="καί" postag="c--------" cite="875" head="18" relation="COORD"/>
       <word id="4" form="ὤπῃ" lemma="ὅπῃ" postag="d--------" cite="875" head="3" relation="ADV_CO"/>

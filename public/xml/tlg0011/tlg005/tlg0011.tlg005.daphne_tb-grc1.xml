@@ -8744,7 +8744,7 @@
       <word id="8" form="," lemma="," postag="u--------" cite="899" relation="AuxX" head="1"/>
       <word id="9" form="τύμβου" lemma="τύμβος" postag="n-s---mg-" cite="900" relation="ADV" head="11"/>
       <word id="10" form="προσεῖρπον" lemma="προσέρπω" postag="v1siia---" cite="900" relation="PRED_CO" head="2"/>
-      <word id="11" form="ἆσσον" lemma="ἆσσον" postag="r-------d" cite="900" relation="ADV" head="10"/>
+      <word id="11" form="ἆσσον" lemma="ἆσσον" postag="r-------c" cite="900" relation="ADV" head="10"/>
       <word id="12" form="·" lemma="·" postag="u--------" cite="900" relation="AuxK" head="0"/>
    </sentence>
    <sentence id="487"
